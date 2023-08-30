@@ -12,7 +12,7 @@
   <p>
   - <img height=15 width=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><br/>
   - Assembly language <br/>
-  - Open Source contributing <br/>
+  - Contributing to open source projects <br/>
   </p>
   
 <h2>Some Tools I Use</h2>
@@ -31,7 +31,7 @@
 
 <h2>Connect with me</h2>
   
-<a href='https://www.linkedin.com/in/felixmendezr/'><img height=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a target='_blank' href='https://www.linkedin.com/in/felixmendezr/'><img height=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
           
           
 
