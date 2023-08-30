@@ -31,7 +31,7 @@
 
 <h2>Connect with me</h2>
   
-<a href='https://www.linkedin.com/in/felixmendezr/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href='https://www.linkedin.com/in/felixmendezr/'><img height=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
           
           
 
