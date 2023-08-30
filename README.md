@@ -8,14 +8,14 @@
   - I love programming and constantly expore new things 💻 <br/>
   </p>
 
-<h2>New Things I'm Learning or Looking to Get Into</h2>
+<h2>New Things I'm Learning or Looking to Get Into 🤖</h2>
   <p>
   - <img height=15 width=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><br/>
   - Assembly language <br/>
   - Contributing to open source projects <br/>
   </p>
   
-<h2>Some Tools I Use</h2>
+<h2>Some Tools I Use 🛠</h2>
 <div> 
   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
@@ -29,13 +29,10 @@
   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 </div>
 
-<h2>Connect with me</h2>
+<h2>Connect with me ✉</h2>
   
 <a target='_blank' href='https://www.linkedin.com/in/felixmendezr/'><img height=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
           
-          
-
-
 <!--
 **fmendezr/fmendezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
