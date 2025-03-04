@@ -19,7 +19,7 @@
   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-   <img height=15 width=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><br/>
+   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><br/>
 </div>
 
 <h2>Connect with me ✉</h2>
