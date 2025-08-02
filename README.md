@@ -3,7 +3,6 @@
 
 <h2>About Me 😎</h2>
   <p>
-  - I'm originally from Caracas, Venezuela 🇻🇪<br/>
   - I'm a Computer Science major at the Univeristy of South Florida 📚<br/>
   - I love programming and constantly expore new things 💻 <br/>
   </p>
